@@ -6,12 +6,10 @@ My Website
 <html>
 
 <head>
-<title>Medical Products</title>
 </head>
 <body style="background-color: white;">
 
 
-    <!--Nando ants-->
 <h1 style= "font-family:georgia;"><font color= "blue">Medical Products</h1>
  <hr>
 <h2 style= "font-family:georgia;"><font color= "blue">X-ray Machine </h2>
